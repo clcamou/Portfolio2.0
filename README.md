@@ -17,4 +17,8 @@
 8. In the contact section, 
     a. It was reformated through the css style sheet since it is now correctly linked. 
 9. Added Bootstrap to each section 
+<<<<<<< HEAD
 10. Added Navbar
+=======
+10. Added toggle Navbar
+>>>>>>> a3784923db0a86a4b767110a00aef97a91a13d3f
